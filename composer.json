@@ -1,6 +1,7 @@
 {
     "name": "alexwhin/packagist",
     "description": "Quick Test",
+    "license": "MIT",
     "repositories": [
         {
             "url": "https://github.com/alexwhin/packagist"
