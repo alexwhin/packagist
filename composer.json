@@ -2,6 +2,7 @@
     "name": "alexwhin/packagist",
     "description": "Quick Test",
     "license": "MIT",
+    "minimum-stability": "stable",
     "repositories": [
         {
             "type": "package",
