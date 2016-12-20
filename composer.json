@@ -4,7 +4,16 @@
     "license": "MIT",
     "repositories": [
         {
-            "url": "https://github.com/alexwhin/packagist"
+            "type": "package",
+            "package": {
+                "name": "alexwhin/packagist",
+                "version": "master",
+                "source": {
+                    "url": "git@github.com:alexwhin/packagist.git",
+                    "type": "git",
+                    "reference": "origin/master"
+                }
+            }
         }
     ],
     "authors": [
